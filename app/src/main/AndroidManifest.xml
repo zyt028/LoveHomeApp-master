@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lovehome.lovehomeapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+
+    <application
+        android:name=".application.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".userM.other_activity.UserDa" />
+        <activity
+            android:name=".userM.other_activity.ChangeUName"
+            android:label="@string/title_activity_change_uname"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".userM.other_activity.ChangeUPhoneNum" />
+        <activity android:name=".userM.other_activity.ChangeUAddress" />
+        <activity android:name=".userM.other_activity.MyNews" />
+        <activity android:name=".userM.other_activity.AsLoveHome" />
+        <activity android:name=".userM.other_activity.MyCollect" />
+        <activity android:name=".userM.other_activity.MyDraft" />
+        <activity android:name=".userM.other_activity.MyPublish" />
+        <activity android:name=".userM.other_activity.State" />
+        <activity android:name=".login.LoginUi" />
+        <activity android:name=".login.ForgetPwdActiivity" />
+        <activity android:name=".login.ProvisionActivity" />
+        <activity android:name=".login.RegisterActivity" />
+        <activity android:name=".login.ResetPwdActivity"></activity>
+    </application>
+
+</manifest>

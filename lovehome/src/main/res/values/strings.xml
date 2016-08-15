@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoveHome</string>
+    <string name="allStore">全部商户</string>
+    <string name="unknowname">未知</string>
+    <string name="lovehome">爱家乡</string>
+    <string name="shared">发布</string>
+    <string name="my">我的</string>
+    <string name="searchStore">查找商户</string>
+    <string name="cityname">城市</string>
+    <string name="MyNews">我的消息</string>
+    <string name="newinfo">最新上线</string>
+    <string name="LXH">老乡会</string>
+    <string name="LXHinfo">同乡异城,互帮互助</string>
+    <string name="WMHinfo">一点电话,马上到家</string>
+    <string name="WMH">外卖汇</string>
+</resources>

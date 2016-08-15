@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">publish</string>
+    <string name="Merchant_name">商家名称:</string>
+    <string name="shop_hours">营业时间:</string>
+    <string name="person_consumption">人均消费:</string>
+    <string name="measurement">计量单位:</string>
+    <string name="address">地址:</string>
+    <string name="contacts">联系人:</string>
+    <string name="Telephone">电话:</string>
+    <string name="ake_away_time">外卖时间:</string>
+    <string name="Take_out_range">外卖范围:</string>
+    <string name="Take_out_charge">外卖收费:</string>
+    <string name="title">标题:</string>
+    <string name="title_area">标题（含小区名）:</string>
+    <string name="rate">价格:</string>
+    <string name="rent">租金:</string>
+    <string name="price">售价:</string>
+    <string name="Company_name">公司名称:</string>
+    <string name="active_time">有效时间:</string>
+    <string name="pay">薪资:</string>
+
+
+</resources>
+

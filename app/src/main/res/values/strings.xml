@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LoveHomeApp</string>
+    <string name="allStore">全部商户</string>
+    <string name="unknowname">未知</string>
+    <string name="lovehome">爱家乡</string>
+    <string name="shared">发布</string>
+    <string name="my">我的</string>
+    <string name="searchStore">查找商户</string>
+    <string name="cityname">城市</string>
+    <string name="title">标题</string>
+    <string name="title_area">标题(含小区名)</string>
+    <string name="rent">租金</string>
+    <string name="price">售价</string>
+    <string name="Company_name">公司名称</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_change_uname">ChangeUName</string>
+</resources>
